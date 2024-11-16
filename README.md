@@ -72,7 +72,8 @@ The data visualisation engine is [Power BI](https://powerbi.microsoft.com), feat
 - [Violin Plot](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381947?tab=Overview)
 
 This project started as a clone of a similar project I maintain, analysing CO2 level and similar data from Aranet monitors and other sources:
-(https://github.com/Mike-Honey/co2-levels/)[https://github.com/Mike-Honey/co2-levels/]
+
+[https://github.com/Mike-Honey/co2-levels/](https://github.com/Mike-Honey/co2-levels/)
 
 ## 🤝 Support
 
