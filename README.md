@@ -32,7 +32,7 @@ Project to analyse data on CO2 levels, using data from the [indoorco2map.com](ht
 
 ## Reference
 
-Dataviz using data from CO2 monitors to analyse CO2 levels. The data format is that output by the [indoorco2map.com](https://indoorco2map.com) project, a crowd-sourced dataset of CO2 levels non-residential buildings. The data is updated every 6 hours.
+Dataviz using data from CO2 monitors to analyse CO2 levels. The data format is that output by the [indoorco2map.com](https://indoorco2map.com) project, a crowd-sourced dataset of CO2 levels non-residential buildings. The data is updated every 6 hours.  Thanks to the maintainers of that project, the well-structured data they collect is made freely available.
 
 ## Summary
 
@@ -70,6 +70,9 @@ The data visualisation engine is [Power BI](https://powerbi.microsoft.com), feat
 - [HTML Content (Lite)](https://appsource.microsoft.com/en-us/product/power-bi-visuals/coacervolimited1596856650797.htmlcontent_certified?tab=Overview)
 - [Play Axis](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380981?tab=Overview)
 - [Violin Plot](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381947?tab=Overview)
+
+This project started as a clone of a similar project I maintain, analysing CO2 level and similar data from Aranet monitors and other sources:
+(https://github.com/Mike-Honey/co2-levels/)[https://github.com/Mike-Honey/co2-levels/]
 
 ## 🤝 Support
 
