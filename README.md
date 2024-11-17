@@ -32,7 +32,7 @@ Project to analyse data on CO2 levels, using data from the [indoorco2map.com](ht
 
 ## Reference
 
-Dataviz using data from CO2 monitors to analyse CO2 levels. The data format is that output by the [indoorco2map.com](https://indoorco2map.com) project, a crowd-sourced dataset of CO2 levels non-residential buildings. The data is updated every 6 hours.  Thanks to the maintainers of that project, the well-structured data they collect is made freely available.
+Dataviz using data from CO2 monitors to analyse CO2 levels. The data format is that output by the [indoorco2map.com](https://indoorco2map.com) project, a crowd-sourced dataset of CO2 levels in non-residential buildings. The data is updated every 6 hours.  Thanks to the maintainers of that project, the well-structured data they collect is made freely available.
 
 ## Summary
 
